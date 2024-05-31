@@ -34,6 +34,6 @@
 - 금융기관에 소상공인의 신용 등급 정보를 제공하여 지역 특화 금융 상품 설계 시 활용 가능
 ---
 # 6. 자료
-- 보고서 및 발표자료  
+- 보고서
   [금융데이터활용경진대회_소상공인 신용구간 분류 모델 기반의 추천 서비스, 플랫폼 개발.pdf](https://drive.google.com/file/d/1B2Xzvq_keLPdI03oZKN7pTLwfo3ty5q2/view?usp=drive_link)  
 
