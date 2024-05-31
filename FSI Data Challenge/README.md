@@ -33,3 +33,8 @@
 - 본 분석 모델은 신규 진입하는 핀테크 기업에 효용을 지닐 수 있다
 - 지역에 맞춘 효율적인 시스템이 도입된다면 해당 지역 고객들의 효용이 증가할
 것으로 기대
+---
+# 7. 자료
+- 보고서 및 발표자료  
+  [빅코노미_FSI Data Challenge 2022_최종보고서.pdf](https://drive.google.com/file/d/14xpeZK_nfvuU9xTuHHqFUKDm2bqCK5aJ/view?usp=drive_link)  
+  [빅코노미_FSI Data Challenge 2022_본선 발표 PPT.pdf](https://drive.google.com/file/d/1SHvVGw5HNDjqzmD_SFMBxuIetEPE6vto/view?usp=drive_link)
