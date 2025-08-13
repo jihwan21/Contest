@@ -20,3 +20,5 @@
 
 ## 4. 성과
 - 본선 발표 진출
+
+[참가확인증](https://drive.google.com/file/d/1EecIcRZSQqRHFaGEn-mhPM312pcZiyFL/view?usp=sharing)
